@@ -1,4 +1,4 @@
-<br/>
+<br/>    
 
 ![GitHub followers](https://img.shields.io/github/followers/Dilshan-DevX?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Dilshan-DevX?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Dilshan-DevX.repoName) <img src="https://komarev.com/ghpvc/?username=Dilshan-DevX" alt="Dilshan-DevX" />
 
@@ -7,25 +7,25 @@
 
 <h1 align="center">Hi 👋, I'm Tharindu Dilshan</h1>
 <h3 align="center">Full-Stack Developer | Passionate About End-to-End Development</h3>
-
+       
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
+                                                                                         
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+My+Profile;Full-Stack+Developer;Passionate+About+End-to-End+Development"></a>
 </p>
-
+                                                                                  
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+                                                         
 <br>
-
+                            
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
-
+                                                          
 - 🔭 I’m currently working on **Ongoing Research**
 
 - 🌱 I’m currently learning **Java,PHP,JavaScript,SQL,(Ux/Ui)and C++**
